@@ -19,4 +19,6 @@ add_subdirectory(meshing)
 add_subdirectory(performance)
 add_subdirectory(tools)
 add_subdirectory(nurbs)
+add_subdirectory(gslib)
 add_subdirectory(mtop)
+
