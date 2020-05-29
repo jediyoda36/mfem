@@ -1,0 +1,897 @@
+[
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/general/array.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/array.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/array.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/general/binaryio.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/binaryio.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/binaryio.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/general/cuda.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/cuda.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/cuda.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/general/device.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/device.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/device.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/general/error.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/error.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/error.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/general/gecko.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/gecko.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/gecko.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/general/globals.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/globals.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/globals.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/general/isockstream.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/isockstream.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/isockstream.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/general/mem_manager.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/mem_manager.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/mem_manager.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/general/occa.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/occa.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/occa.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/general/optparser.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/optparser.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/optparser.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/general/osockstream.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/osockstream.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/osockstream.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/general/sets.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/sets.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/sets.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/general/socketstream.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/socketstream.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/socketstream.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/general/stable3d.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/stable3d.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/stable3d.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/general/table.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/table.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/table.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/general/tic_toc.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/tic_toc.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/tic_toc.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/general/version.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/version.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/general/version.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/linalg/blockmatrix.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/blockmatrix.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/blockmatrix.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/linalg/blockoperator.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/blockoperator.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/blockoperator.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/linalg/blockvector.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/blockvector.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/blockvector.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/linalg/complex_operator.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/complex_operator.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/complex_operator.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/linalg/densemat.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/densemat.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/densemat.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/linalg/handle.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/handle.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/handle.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/linalg/matrix.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/matrix.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/matrix.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/linalg/ode.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/ode.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/ode.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/linalg/operator.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/operator.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/operator.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/linalg/solvers.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/solvers.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/solvers.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/linalg/sparsemat.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/sparsemat.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/sparsemat.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/linalg/sparsesmoothers.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/sparsesmoothers.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/sparsesmoothers.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/linalg/vector.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/vector.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/linalg/vector.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/mesh/element.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/element.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/element.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/mesh/hexahedron.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/hexahedron.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/hexahedron.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/mesh/mesh.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/mesh.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/mesh.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/mesh/mesh_operators.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/mesh_operators.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/mesh_operators.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/mesh/mesh_readers.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/mesh_readers.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/mesh_readers.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/mesh/ncmesh.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/ncmesh.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/ncmesh.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/mesh/nurbs.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/nurbs.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/nurbs.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/mesh/point.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/point.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/point.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/mesh/quadrilateral.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/quadrilateral.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/quadrilateral.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/mesh/segment.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/segment.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/segment.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/mesh/tetrahedron.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/tetrahedron.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/tetrahedron.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/mesh/triangle.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/triangle.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/triangle.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/mesh/vertex.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/vertex.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/vertex.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/mesh/vtk.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/vtk.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/vtk.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/mesh/wedge.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/wedge.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/mesh/wedge.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilinearform.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilinearform.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilinearform.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilinearform_ext.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilinearform_ext.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilinearform_ext.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilininteg.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilininteg_convection_pa.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_convection_pa.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_convection_pa.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilininteg_convection_ea.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_convection_ea.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_convection_ea.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilininteg_dgtrace_pa.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_dgtrace_pa.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_dgtrace_pa.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilininteg_dgtrace_ea.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_dgtrace_ea.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_dgtrace_ea.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilininteg_diffusion_pa.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_diffusion_pa.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_diffusion_pa.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilininteg_diffusion_ea.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_diffusion_ea.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_diffusion_ea.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilininteg_divergence.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_divergence.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_divergence.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilininteg_hcurl.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_hcurl.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_hcurl.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilininteg_hdiv.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_hdiv.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_hdiv.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilininteg_vectorfe.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_vectorfe.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_vectorfe.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilininteg_gradient.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_gradient.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_gradient.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilininteg_mass_pa.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_mass_pa.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_mass_pa.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilininteg_mass_ea.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_mass_ea.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_mass_ea.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilininteg_transpose_ea.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_transpose_ea.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_transpose_ea.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilininteg_vecdiffusion.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_vecdiffusion.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_vecdiffusion.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/bilininteg_vecmass.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_vecmass.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/bilininteg_vecmass.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/coefficient.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/coefficient.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/coefficient.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/complex_fem.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/complex_fem.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/complex_fem.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/datacollection.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/datacollection.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/datacollection.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/eltrans.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/eltrans.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/eltrans.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/estimators.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/estimators.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/estimators.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/fe.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/fe.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/fe.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/fe_coll.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/fe_coll.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/fe_coll.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/fespace.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/fespace.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/fespace.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/geom.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/geom.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/geom.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/gridfunc.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/gridfunc.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/gridfunc.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/hybridization.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/hybridization.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/hybridization.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/intrules.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/intrules.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/intrules.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/linearform.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/linearform.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/linearform.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/lininteg.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/lininteg.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/lininteg.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/multigrid.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/multigrid.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/multigrid.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/nonlinearform.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/nonlinearform.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/nonlinearform.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/nonlinearform_ext.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/nonlinearform_ext.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/nonlinearform_ext.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/nonlininteg.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/nonlininteg.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/nonlininteg.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/fespacehierarchy.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/fespacehierarchy.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/fespacehierarchy.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/nonlininteg_vectorconvection.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/nonlininteg_vectorconvection.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/nonlininteg_vectorconvection.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/quadinterpolator.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/quadinterpolator.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/quadinterpolator.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/quadinterpolator_face.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/quadinterpolator_face.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/quadinterpolator_face.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/restriction.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/restriction.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/restriction.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/staticcond.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/staticcond.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/staticcond.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/tmop.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/tmop.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/tmop.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/tmop_tools.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/tmop_tools.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/tmop_tools.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/gslib.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/gslib.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/gslib.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build",
+  "command": "/usr/local/bin/g++-9  -DMFEM_CONFIG_FILE=\\\"/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/config/_config.hpp\\\"  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem.dir/fem/transfer.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/transfer.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/fem/transfer.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9  -DMFEM_SEDOV_DEVICE=\\\"debug\\\" -DMFEM_SEDOV_TESTS=1 -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/sedov_tests_debug.dir/unit_test_main.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/unit_test_main.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/unit_test_main.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9  -DMFEM_SEDOV_DEVICE=\\\"debug\\\" -DMFEM_SEDOV_TESTS=1 -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/sedov_tests_debug.dir/miniapps/test_sedov.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/miniapps/test_sedov.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/miniapps/test_sedov.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9  -DMFEM_SEDOV_DEVICE=\\\"cpu\\\" -DMFEM_SEDOV_TESTS=1 -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/sedov_tests_cpu.dir/unit_test_main.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/unit_test_main.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/unit_test_main.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9  -DMFEM_SEDOV_DEVICE=\\\"cpu\\\" -DMFEM_SEDOV_TESTS=1 -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/sedov_tests_cpu.dir/miniapps/test_sedov.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/miniapps/test_sedov.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/miniapps/test_sedov.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/unit_test_main.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/unit_test_main.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/unit_test_main.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/general/test_mem.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/general/test_mem.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/general/test_mem.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/general/test_text.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/general/test_text.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/general/test_text.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/general/test_zlib.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/general/test_zlib.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/general/test_zlib.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/linalg/test_complex_operator.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_complex_operator.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_complex_operator.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/linalg/test_ilu.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_ilu.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_ilu.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/linalg/test_matrix_block.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_matrix_block.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_matrix_block.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/linalg/test_matrix_dense.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_matrix_dense.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_matrix_dense.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/linalg/test_matrix_rectangular.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_matrix_rectangular.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_matrix_rectangular.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/linalg/test_matrix_square.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_matrix_square.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_matrix_square.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/linalg/test_ode.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_ode.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_ode.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/linalg/test_ode2.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_ode2.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_ode2.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/linalg/test_operator.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_operator.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_operator.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/linalg/test_cg_indefinite.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_cg_indefinite.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/linalg/test_cg_indefinite.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/mesh/test_mesh.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/mesh/test_mesh.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/mesh/test_mesh.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/fem/test_1d_bilininteg.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_1d_bilininteg.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_1d_bilininteg.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/fem/test_2d_bilininteg.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_2d_bilininteg.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_2d_bilininteg.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/fem/test_3d_bilininteg.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_3d_bilininteg.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_3d_bilininteg.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/fem/test_assemblediagonalpa.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_assemblediagonalpa.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_assemblediagonalpa.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/fem/test_calcshape.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_calcshape.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_calcshape.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/fem/test_datacollection.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_datacollection.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_datacollection.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/fem/test_face_permutation.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_face_permutation.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_face_permutation.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/fem/test_fe.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_fe.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_fe.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/fem/test_intrules.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_intrules.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_intrules.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/fem/test_intruletypes.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_intruletypes.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_intruletypes.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/fem/test_inversetransform.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_inversetransform.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_inversetransform.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/fem/test_lin_interp.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_lin_interp.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_lin_interp.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/fem/test_linear_fes.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_linear_fes.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_linear_fes.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/fem/test_operatorjacobismoother.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_operatorjacobismoother.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_operatorjacobismoother.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/fem/test_pa_coeff.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_pa_coeff.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_pa_coeff.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/fem/test_pa_kernels.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_pa_kernels.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_pa_kernels.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/fem/test_quadraturefunc.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_quadraturefunc.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/fem/test_quadraturefunc.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/tests/unit",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/unit_tests.dir/miniapps/test_sedov.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/miniapps/test_sedov.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/tests/unit/miniapps/test_sedov.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex27.dir/ex27.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex27.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex27.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex3.dir/ex3.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex3.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex3.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex25.dir/ex25.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex25.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex25.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex24.dir/ex24.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex24.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex24.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex16.dir/ex16.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex16.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex16.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex23.dir/ex23.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex23.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex23.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex4.dir/ex4.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex4.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex4.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex22.dir/ex22.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex22.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex22.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex20.dir/ex20.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex20.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex20.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex15.dir/ex15.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex15.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex15.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex2.dir/ex2.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex2.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex2.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex14.dir/ex14.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex14.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex14.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex7.dir/ex7.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex7.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex7.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex10.dir/ex10.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex10.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex10.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex9.dir/ex9.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex9.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex9.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex19.dir/ex19.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex19.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex19.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex8.dir/ex8.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex8.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex8.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex17.dir/ex17.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex17.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex17.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex21.dir/ex21.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex21.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex21.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex6.dir/ex6.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex6.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex6.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex18.dir/ex18.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex18.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex18.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex5.dir/ex5.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex5.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex5.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex26.dir/ex26.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex26.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex26.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/examples",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/ex1.dir/ex1.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex1.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/examples/ex1.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/common",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem-common.dir/mesh_extras.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/common/mesh_extras.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/common/mesh_extras.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/common",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mfem-common.dir/fem_extras.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/common/fem_extras.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/common/fem_extras.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/meshing",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mesh-optimizer.dir/mesh-optimizer.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/meshing/mesh-optimizer.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/meshing/mesh-optimizer.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/meshing",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/shaper.dir/shaper.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/meshing/shaper.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/meshing/shaper.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/meshing",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/extruder.dir/extruder.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/meshing/extruder.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/meshing/extruder.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/meshing",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/minimal-surface.dir/minimal-surface.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/meshing/minimal-surface.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/meshing/minimal-surface.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/meshing",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/twist.dir/twist.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/meshing/twist.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/meshing/twist.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/meshing",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mobius-strip.dir/mobius-strip.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/meshing/mobius-strip.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/meshing/mobius-strip.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/meshing",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/mesh-explorer.dir/mesh-explorer.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/meshing/mesh-explorer.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/meshing/mesh-explorer.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/meshing",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/toroid.dir/toroid.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/meshing/toroid.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/meshing/toroid.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/meshing",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/klein-bottle.dir/klein-bottle.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/meshing/klein-bottle.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/meshing/klein-bottle.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/performance",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -march=native -Wall --param max-completely-peel-times=3 -pedantic -std=c++11 -o CMakeFiles/performance_ex1.dir/ex1.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/performance/ex1.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/performance/ex1.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/tools",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/lor-transfer.dir/lor-transfer.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/tools/lor-transfer.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/tools/lor-transfer.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/tools",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/convert-dc.dir/convert-dc.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/tools/convert-dc.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/tools/convert-dc.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/tools",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/load-dc.dir/load-dc.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/tools/load-dc.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/tools/load-dc.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/tools",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/get-values.dir/get-values.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/tools/get-values.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/tools/get-values.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/tools",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/display-basis.dir/display-basis.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/tools/display-basis.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/tools/display-basis.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/toys",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/toy_life.dir/life.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/toys/life.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/toys/life.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/toys",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/toy_mondrian.dir/mondrian.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/toys/mondrian.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/toys/mondrian.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/toys",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/toy_snake.dir/snake.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/toys/snake.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/toys/snake.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/toys",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/toy_rubik.dir/rubik.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/toys/rubik.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/toys/rubik.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/toys",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/toy_lissajous.dir/lissajous.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/toys/lissajous.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/toys/lissajous.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/toys",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/toy_mandel.dir/mandel.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/toys/mandel.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/toys/mandel.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/toys",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/toy_automata.dir/automata.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/toys/automata.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/toys/automata.cpp"
+},
+{
+  "directory": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build/miniapps/nurbs",
+  "command": "/usr/local/bin/g++-9   -I/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/build  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/nurbs_ex1.dir/nurbs_ex1.cpp.o -c /Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/nurbs/nurbs_ex1.cpp",
+  "file": "/Users/liutianchen/ACL/mfemEnv/mfemModified/mfem/miniapps/nurbs/nurbs_ex1.cpp"
+}
+]

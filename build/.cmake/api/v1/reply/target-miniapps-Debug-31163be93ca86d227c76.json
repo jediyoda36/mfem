@@ -1,0 +1,436 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"add_mfem_target",
+			"add_dependencies",
+			"add_mfem_miniapp"
+		],
+		"files" : 
+		[
+			"config/cmake/modules/MfemCmakeUtilities.cmake",
+			"CMakeLists.txt",
+			"miniapps/meshing/CMakeLists.txt",
+			"miniapps/performance/CMakeLists.txt",
+			"miniapps/tools/CMakeLists.txt",
+			"miniapps/toys/CMakeLists.txt",
+			"miniapps/nurbs/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 482,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 54,
+				"parent" : 1
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 32,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 24,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 6
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 28,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 8
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 36,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 10
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 44,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 12
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 20,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 14
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 16,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 16
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 40,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 18
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 12,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 20
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 39,
+				"parent" : 22
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 23
+			},
+			{
+				"file" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 4,
+				"line" : 28,
+				"parent" : 25
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 26
+			},
+			{
+				"command" : 3,
+				"file" : 4,
+				"line" : 25,
+				"parent" : 25
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 28
+			},
+			{
+				"command" : 3,
+				"file" : 4,
+				"line" : 22,
+				"parent" : 25
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 30
+			},
+			{
+				"command" : 3,
+				"file" : 4,
+				"line" : 17,
+				"parent" : 25
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 32
+			},
+			{
+				"command" : 3,
+				"file" : 4,
+				"line" : 12,
+				"parent" : 25
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 34
+			},
+			{
+				"file" : 5
+			},
+			{
+				"command" : 3,
+				"file" : 5,
+				"line" : 15,
+				"parent" : 36
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 37
+			},
+			{
+				"command" : 3,
+				"file" : 5,
+				"line" : 34,
+				"parent" : 36
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 39
+			},
+			{
+				"command" : 3,
+				"file" : 5,
+				"line" : 26,
+				"parent" : 36
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 41
+			},
+			{
+				"command" : 3,
+				"file" : 5,
+				"line" : 21,
+				"parent" : 36
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 43
+			},
+			{
+				"command" : 3,
+				"file" : 5,
+				"line" : 31,
+				"parent" : 36
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 45
+			},
+			{
+				"command" : 3,
+				"file" : 5,
+				"line" : 18,
+				"parent" : 36
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 47
+			},
+			{
+				"command" : 3,
+				"file" : 5,
+				"line" : 12,
+				"parent" : 36
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 49
+			},
+			{
+				"file" : 6
+			},
+			{
+				"command" : 3,
+				"file" : 6,
+				"line" : 24,
+				"parent" : 51
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 52
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "mesh-optimizer::@e780cee5324948b94e2d"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "shaper::@e780cee5324948b94e2d"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "extruder::@e780cee5324948b94e2d"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "minimal-surface::@e780cee5324948b94e2d"
+		},
+		{
+			"backtrace" : 13,
+			"id" : "twist::@e780cee5324948b94e2d"
+		},
+		{
+			"backtrace" : 15,
+			"id" : "mobius-strip::@e780cee5324948b94e2d"
+		},
+		{
+			"backtrace" : 17,
+			"id" : "mesh-explorer::@e780cee5324948b94e2d"
+		},
+		{
+			"backtrace" : 19,
+			"id" : "toroid::@e780cee5324948b94e2d"
+		},
+		{
+			"backtrace" : 21,
+			"id" : "klein-bottle::@e780cee5324948b94e2d"
+		},
+		{
+			"backtrace" : 24,
+			"id" : "performance_ex1::@76377bcff42d49f93b4f"
+		},
+		{
+			"backtrace" : 27,
+			"id" : "lor-transfer::@44a6c0dba218162025d5"
+		},
+		{
+			"backtrace" : 29,
+			"id" : "convert-dc::@44a6c0dba218162025d5"
+		},
+		{
+			"backtrace" : 31,
+			"id" : "load-dc::@44a6c0dba218162025d5"
+		},
+		{
+			"backtrace" : 33,
+			"id" : "get-values::@44a6c0dba218162025d5"
+		},
+		{
+			"backtrace" : 35,
+			"id" : "display-basis::@44a6c0dba218162025d5"
+		},
+		{
+			"backtrace" : 38,
+			"id" : "toy_life::@3b95bf0e6052fde3e57b"
+		},
+		{
+			"backtrace" : 40,
+			"id" : "toy_mondrian::@3b95bf0e6052fde3e57b"
+		},
+		{
+			"backtrace" : 42,
+			"id" : "toy_snake::@3b95bf0e6052fde3e57b"
+		},
+		{
+			"backtrace" : 44,
+			"id" : "toy_rubik::@3b95bf0e6052fde3e57b"
+		},
+		{
+			"backtrace" : 46,
+			"id" : "toy_lissajous::@3b95bf0e6052fde3e57b"
+		},
+		{
+			"backtrace" : 48,
+			"id" : "toy_mandel::@3b95bf0e6052fde3e57b"
+		},
+		{
+			"backtrace" : 50,
+			"id" : "toy_automata::@3b95bf0e6052fde3e57b"
+		},
+		{
+			"backtrace" : 53,
+			"id" : "nurbs_ex1::@c64a76342474b6f694c9"
+		}
+	],
+	"id" : "miniapps::@6890427a1f51a3e7e1df",
+	"name" : "miniapps",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
