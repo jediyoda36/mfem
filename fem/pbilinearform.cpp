@@ -11,7 +11,7 @@
 
 #include "../config/config.hpp"
 
-#ifdef MFEM_USE_MPI
+// #ifdef MFEM_USE_MPI
 
 #include "fem.hpp"
 #include "../general/sort_pairs.hpp"
