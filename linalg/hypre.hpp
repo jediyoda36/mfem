@@ -14,7 +14,7 @@
 
 #include "../config/config.hpp"
 
-#ifdef MFEM_USE_MPI
+// #ifdef MFEM_USE_MPI  // If running this program, please uncommit ifdef
 
 #include <mpi.h>
 
@@ -1316,6 +1316,6 @@ public:
 
 }
 
-#endif // MFEM_USE_MPI
+// #endif // MFEM_USE_MPI
 
-#endif
+// #endif

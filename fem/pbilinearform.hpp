@@ -14,7 +14,7 @@
 
 #include "../config/config.hpp"
 
-#ifdef MFEM_USE_MPI
+// #ifdef MFEM_USE_MPI
 
 #include <mpi.h>
 #include "pfespace.hpp"

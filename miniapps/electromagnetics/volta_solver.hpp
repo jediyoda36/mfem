@@ -16,7 +16,7 @@
 #include "../common/mesh_extras.hpp"
 #include "electromagnetics.hpp"
 
-#ifdef MFEM_USE_MPI
+// #ifdef MFEM_USE_MPI  // If running this program, please uncommit ifdef
 
 #include <string>
 #include <map>
@@ -138,6 +138,6 @@ private:
 
 } // namespace mfem
 
-#endif // MFEM_USE_MPI
+// #endif // MFEM_USE_MPI
 
-#endif // MFEM_VOLTA_SOLVER
+// #endif // MFEM_VOLTA_SOLVER

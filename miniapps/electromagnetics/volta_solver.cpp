@@ -11,7 +11,7 @@
 
 #include "volta_solver.hpp"
 
-#ifdef MFEM_USE_MPI
+// #ifdef MFEM_USE_MPI // If running this program, please uncommit ifdef
 
 using namespace std;
 namespace mfem
@@ -643,4 +643,4 @@ VoltaSolver::DisplayToGLVis()
 
 } // namespace mfem
 
-#endif // MFEM_USE_MPI
+//#endif // MFEM_USE_MPI
