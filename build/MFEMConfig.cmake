@@ -13,7 +13,7 @@ include(${CMAKE_CURRENT_LIST_DIR}/MFEMConfigVersion.cmake)
 
 set(MFEM_VERSION ${PACKAGE_VERSION})
 set(MFEM_VERSION_INT 40101)
-set(MFEM_GIT_STRING "heads/Tianchen-Liu-0-g200578659d95f803fbf56f1ef499816969b6b03c-dirty")
+set(MFEM_GIT_STRING "heads/Tianchen-Liu-0-ga946ee414878d7d9ef46ed8d3a990bb7891bafe3-dirty")
 
 set(MFEM_USE_MPI OFF)
 set(MFEM_USE_METIS OFF)

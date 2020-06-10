@@ -34,15 +34,15 @@
 	[
 		{
 			"backtrace" : 2,
-			"id" : "examples::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 2,
 			"id" : "miniapps::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 2,
 			"id" : "tests::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "examples::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "exec::@6890427a1f51a3e7e1df",

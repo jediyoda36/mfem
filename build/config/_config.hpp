@@ -37,7 +37,7 @@
 #define MFEM_INSTALL_DIR "/usr/local"
 
 // Description of the git commit used to build MFEM.
-#define MFEM_GIT_STRING "heads/Tianchen-Liu-0-g200578659d95f803fbf56f1ef499816969b6b03c-dirty"
+#define MFEM_GIT_STRING "heads/Tianchen-Liu-0-ga946ee414878d7d9ef46ed8d3a990bb7891bafe3-dirty"
 
 // Build the parallel MFEM library.
 // Requires an MPI compiler, and the libraries HYPRE and METIS.

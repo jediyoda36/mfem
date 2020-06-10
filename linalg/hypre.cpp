@@ -11,7 +11,7 @@
 
 #include "../config/config.hpp"
 
-#ifdef MFEM_USE_MPI
+// #ifdef MFEM_USE_MPI
 
 #include "linalg.hpp"
 #include "../fem/fem.hpp"
